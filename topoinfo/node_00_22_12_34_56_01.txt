@@ -1,0 +1,11 @@
+**********Node's Report**********
+Report Time:	Thu Jan 15 07:20:01 CST 1970
+node hostname:	real210-map-ap
+node IP:	192.168.2.4
+wireless MAC(wlan0):	00:F1:40:33:06:C0
+ethernet MAC(eth0):	00:22:12:34:56:01
+STA1:	ec:55:f9:8b:51:40
+the number of STA under the MAP is: 1
+
+DEST ADDR		NEXT HOP
+	

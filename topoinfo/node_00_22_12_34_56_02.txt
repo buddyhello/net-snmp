@@ -1,0 +1,8 @@
+**********Node's Report**********
+Report Time:	Thu Jan 20 03:31:59 CST 1966
+node hostname:	real210-map-mp
+node IP:	192.168.2.3
+wireless MAC(wlan0):	48:5D:60:2A:23:BC
+ethernet MAC(eth0):	00:22:12:34:56:02
+DEST ADDR		NEXT HOP
+48:5d:60:57:57:8a	48:5d:60:57:57:8a

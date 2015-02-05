@@ -1,0 +1,15 @@
+**********Node's Report**********
+Report Time:	Sat Jan 17 04:20:01 CST 1970
+node hostname:	real210-map-ap
+Type:	mesh
+node IP:	192.168.2.4
+wireless MAC(wlan0):	00:F1:40:33:06:C0
+ethernet MAC(eth0):	00:22:12:34:56:01
+AP SSID:	mesh_v3
+Number of STA:	1
+STA1:	ec:55:f9:8b:51:40
+
+DEST ADDR		NEXT HOP
+00:22:12:34:56:01	00:F1:40:33:06:C0
+00:F1:40:33:06:C0	00:22:12:34:56:01
+00:22:12:34:56:01	00:22:12:34:56:01

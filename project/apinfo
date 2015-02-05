@@ -1,0 +1,11 @@
+Connected to 58:66:ba:94:54:10 (on wlan0)
+	SSID: BUPT-2
+	freq: 2462
+	RX: 158442105 bytes (1069023 packets)
+	TX: 74979 bytes (1887 packets)
+	signal: -47 dBm
+	tx bitrate: 1.0 MBit/s
+
+	bss flags:	short-preamble short-slot-time
+	dtim period:	0
+	beacon int:	100
